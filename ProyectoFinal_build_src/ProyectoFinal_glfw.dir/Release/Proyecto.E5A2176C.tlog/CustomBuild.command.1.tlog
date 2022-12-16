@@ -1,0 +1,10 @@
+^C:\USERS\ALEX\DESKTOP\GLFW_GLAD_GLUT_GLEW_CMAKE_PROJECT\SRC\PROYECTOFINAL\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/Alex/Desktop/GLFW_GLAD_GLUT_GLEW_cmake_project -BC:/Users/Alex/Desktop/GLFW_GLAD_GLUT_GLEW_cmake_project/build/mak.vc16/x64 --check-stamp-file C:/Users/Alex/Desktop/GLFW_GLAD_GLUT_GLEW_cmake_project/build/mak.vc16/x64/src/ProyectoFinal/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

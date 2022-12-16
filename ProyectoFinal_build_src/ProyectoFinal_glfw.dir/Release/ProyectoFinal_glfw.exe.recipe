@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>C:\Users\Alex\Desktop\GLFW_GLAD_GLUT_GLEW_cmake_project\build\mak.vc16\x64\x64\Release\ZERO_CHECK</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\Alex\Desktop\GLFW_GLAD_GLUT_GLEW_cmake_project\build\mak.vc16\x64\src\ProyectoFinal\Release\ProyectoFinal_glfw.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles />
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>

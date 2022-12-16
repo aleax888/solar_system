@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Alex\Desktop\GLFW_GLAD_GLUT_GLEW_cmake_project\dep\include\glad\glad\glad.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Alex\Desktop\GLFW_GLAD_GLUT_GLEW_cmake_project\src\ProyectoFinal\Sphere.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Alex\Desktop\GLFW_GLAD_GLUT_GLEW_cmake_project\src\ProyectoFinal\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\Alex\Desktop\GLFW_GLAD_GLUT_GLEW_cmake_project\src\ProyectoFinal\Sphere.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Alex\Desktop\GLFW_GLAD_GLUT_GLEW_cmake_project\src\ProyectoFinal\camera.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Alex\Desktop\GLFW_GLAD_GLUT_GLEW_cmake_project\src\ProyectoFinal\shader.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Alex\Desktop\GLFW_GLAD_GLUT_GLEW_cmake_project\src\ProyectoFinal\stb_image.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Alex\Desktop\GLFW_GLAD_GLUT_GLEW_cmake_project\src\ProyectoFinal\texture.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\src\ProyectoFinal\solar_system.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Alex\Desktop\GLFW_GLAD_GLUT_GLEW_cmake_project\src\ProyectoFinal\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{29EB4B81-94C0-397F-B090-602B1A641588}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{09F9D7A2-EF06-3CFF-83C1-6243AB3DD644}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
